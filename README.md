@@ -31,7 +31,7 @@ A professional Telegram bot built with aiogram 3.x designed for game developers 
 1. Clone the repository
 code Bash
 
-git clone https://github.com/your-username/normal-map-gen-bot.git
+git clone https://github.com/verysteelsmaker/normal-map-gen-bot.git
 cd normal-map-gen-bot
 
 2. Install dependencies
